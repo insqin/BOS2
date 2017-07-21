@@ -1,0 +1,13 @@
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\Vehicle.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\SubArchive.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\dao\base\StandardRepository.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\Area.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\TakeTime.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\FixedArea.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\Courier.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\SubArea.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\Standard.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\domain\base\Archive.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\service\base\impl\StandardServiceImpl.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\service\base\StandardService.java
+G:\BOS2项目\day02_BOS物流2.0\代码\chapter02代码\bos_management\src\main\java\cn\itcast\bos\web\action\base\StandardAction.java
